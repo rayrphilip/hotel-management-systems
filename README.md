@@ -11,17 +11,17 @@ This repository is a collection of sample technical documentation used for manag
 
 # Repository Structure
 
-- /docs/manuals/: Markdown files containing sample manuals for hotel management system usage
-- /docs/sops/: XML files with sample SOPs for operational tasks, such as guest check-in procedures
-- /docs/dita/: DITA files providing modular documentation for reservation system components
-- /docs/guides/: A PDF user guide consolidating all content for end-uesrs
-- /scripts/: An XSLT stylesheet for transforming XML SOPs into HTML
-- /templates/: A Word document template for standardized documentation formatting
-- /samples/: A Markdown glossary of hospitality-related terms
-- /assets/images/: Diagrams, such as flowcharts, to complement documentation
-- /docs/reviews/: A Markdown revision log tracking document updates
-- .gitignore: Specifies files and directories to exclude from version control
-- LICENSE: Definse the licensing terms for repository content
+- **/docs/manuals/**: Markdown files containing sample manuals for hotel management system usage
+- **/docs/sops/**: XML files with sample SOPs for operational tasks, such as guest check-in procedures
+- **/docs/dita/**: DITA files providing modular documentation for reservation system components
+- **/docs/guides/**: A PDF user guide consolidating all content for end-uesrs
+- **/scripts/**: An XSLT stylesheet for transforming XML SOPs into HTML
+- **/templates/**: A Word document template for standardized documentation formatting
+- **/samples/**: A Markdown glossary of hospitality-related terms
+- **/assets/images/**: Diagrams, such as flowcharts, to complement documentation
+- /docs/reviews/**: A Markdown revision log tracking document updates
+- **.gitignore**: Specifies files and directories to exclude from version control
+- **LICENSE**: Definse the licensing terms for repository content
 
 # Usage Instructions
 
