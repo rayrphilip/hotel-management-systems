@@ -1,1 +1,50 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<sop id="checkin-sop-001" version="1.0">
+  <title>Guest Check-In Procedure</title>
+  <description>
+    This Standard Operating Procedure (SOP) outlines the steps for processing a guest check-in usign the Horizon Property Management System (PMS). It ensures a consistent and efficient check-in experience for hotel front desk staff. All content is fictional and created for demonstration purposes.
+  </description>
+  <scope>
+    Applies to front desk staff handling guest arrivals in the Horizon PMS.
+  </scope>
+  <procedure>
+    <step id="step1">
+      <title>Access the Check-In Module</title>
+      <instruction>
+        Navigate to the <b>Check-In/Out</b> tab in the Horizon PMS dashboard.
+      </instruction>
+    </step>
+     <step id="step2">
+      <title>Locate Guest Reservation</title>
+      <instruction>
+        Search for the guest by entering their name or reservation ID in the search field.
+      </instruction>
+    </step>
+   <step id="step3">
+      <title>Verify Guest Identity</title>
+      <instruction>
+        Confirm the guest's identity using a government-issued ID or booking confirmation details.
+      </instruction>
+    </step>
+       <step id="step4">
+      <title>Assign Room and Key</title>
+      <instruction>
+        Select an available room, assign a key and update the room status to <i>Occupied</i> in the system.
+      </instruction>
+    </step>
+       <step id="step5">
+      <title>Complete Check-In</title>
+      <instruction>
+        Provide the guest with room details, key and any check-in documents (e.g., welcome packet).
+      </instruction>
+    </step>
+  </procedure>
+  <notes>
+    <note>
+      Ensure all guest information is accurate to avoid reservation conflicts.
+    </note>
+    <note>
+      Contact IT support for system issues.
+    </note>
+  </notes>
+</sop>
