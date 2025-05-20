@@ -40,4 +40,5 @@ The Horizon PMS supports hotel operations with the following features:
 ## Additional Resources
 
 - **Help Menu**: Access in-system help for detailed instructions.
+- **IT Support**: Contact your IT team for any technical issues.
 - **Training Videos**: Available on the hotel's internal network under *PMS Training*.
