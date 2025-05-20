@@ -1,1 +1,41 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reservation-system-overview">
+  <title>Horizon PMS Reservation System</title>
+  <shortdesc>
+This topic provides an overview of the reservation system in the Horizon Property Management System (PMS), a fictional tool for managing hotel room boookings. It describes key tasks for front desk staff.
+  </shortdesc>
+<body>
+  <section id="concept">
+  <title>System Purpose</title>
+  <p>The Horizon PMS reservation system enables hotel staff to create, modify, and cancel room bookings efficiently. It integrates with guest check-in processes and room availability tracking.</p>
+  </section>
+  <section id="task">
+  <title>Creating a Reservation</title>
+  <p>Follow these steps to create a new booking:</p>
+  <ol>
+    <li><p>Navigate to the <b>Reservations</b> in the Horizon PMS dashboard.</p></li>
+    <li><p>Click <b>New Reservation</b>.</p></li>
+    <li><p>Enter guest details, including name, contact information, and stay dates.</p></li>
+        <li><p>Select an available room from the displayed list.</p></li>
+    </ol>
+  </section>
+  <section id="reference">
+        <title>Key Fields</title>
+        <dl>
+            <dlentry>
+              <dt>Guest Name</dt>
+              <dd>Full name of the primary guest (required).</dd>
+            </dlentry>
+            <dlentry>
+              <dt>Stay Dates</dt>
+              <dd>Check-in and check-out dates (required).</dd>
+            </dlentry>
+            <dlentry>
+              <dt>Room Type</dt>
+              <dd>Selected room category, such as standard or suite (required).</dd>
+            </dlentry>
+        </dl>
+      </section>
+    </body>
+  </topic>
