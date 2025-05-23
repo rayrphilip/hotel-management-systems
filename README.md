@@ -18,7 +18,7 @@ This repository is a collection of sample technical documentation used for manag
 - **/scripts/**: An XSLT stylesheet for transforming XML SOPs into HTML
 - **/templates/**: A Word document template for standardized documentation formatting
 - **/samples/**: A Markdown glossary of hospitality-related terms
-- **/assets/images/**: Diagrams, such as flowcharts, to complement documentation
+- **/images/**: A flowchart depicting the guest check-in process
 - **/docs/reviews/**: A Markdown revision log tracking document updates
 - **.gitignore**: Specifies files and directories to exclude from version control
 - **LICENSE**: Definse the licensing terms for repository content
