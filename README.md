@@ -19,8 +19,6 @@ This repository is a collection of sample technical documentation used for manag
 - **/templates/**: A Word document template for standardized documentation formatting
 - **/samples/**: A Markdown glossary of hospitality-related terms
 - **/images/**: A flowchart depicting the guest check-in process
-- **.gitignore**: Specifies files and directories to exclude from version control
-- **LICENSE**: Definse the licensing terms for repository content
 
 # Usage Instructions
 
